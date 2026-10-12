@@ -1,0 +1,37 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Training outputs
+runs/
+eye_runs/
+dbg_frames/
+
+# Generated files
+artifacts/
+snaps/
+
+# Large media outputs
+videos/
+*.mp4
+
+# Mac files
+.DS_Store
+
+# Large training checkpoints
+release_20250826/
+
+# Model checkpoint files
+*_ckpt_*.zip
