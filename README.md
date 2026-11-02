@@ -1,5 +1,7 @@
 # RoboVision – Learning Hand-Eye Coordination in Robotics
 
+🎥 **[Watch the RoboVision Simulation Demo on YouTube](https://youtu.be/4POp6GB4mPE)**
+
 This repository contains the code for my MSc Computing Science dissertation at the University of Glasgow (2025).
 
 The project explores how active vision can improve robotic manipulation using a combination of **Behavioural Cloning (BC)** and **Reinforcement Learning (RL)**.
@@ -108,11 +110,6 @@ There are a few things I would improve if I were to extend this work.
 The system was tested only in simulation and focused on a single pick-and-place task. It would be interesting to see how well the approach works with different objects, more complex manipulation tasks or eventually a physical robot.
 
 Another challenge was getting the eye and hand policies to work together consistently. Although the combined approach performed well in the experiments, some configurations still required additional controller assistance.
-
-## Demo
-
-[Watch the RoboVision simulation demo on YouTube](https://youtu.be/4POp6GB4mPE)
-
 
 ## Reference
 
